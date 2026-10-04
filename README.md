@@ -3,7 +3,7 @@
 ### 🚀 AI Engineer | Data Scientist | Forward Deployed Engineer
 I am an MBA (AI & DS) candidate passionate about bridging the gap between complex machine learning models and real-world business impact. I specialize in building, optimizing, and deploying AI and data science solutions that drive actionable insights.
 
-### 🛠️ Tech Stack & Skills (ATS Keywords)
+### 🛠️ Tech Stack & Skills
 *   **Languages:** Python, SQL, R, JavaScript
 *   **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-Learn, NLP, LLMs, GenAI, RAG
 *   **Data Science & Analytics:** Pandas, NumPy, PowerBI, Tableau, Statistical Modeling
