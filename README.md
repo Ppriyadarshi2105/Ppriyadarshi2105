@@ -21,7 +21,7 @@ I am an MBA (AI & DS) candidate passionate about bridging the gap between comple
     *   *Tech:* SQL, Data Modeling
     *   *Impact:* Designed relational database queries to extract KPIs and drive revenue-focused business intelligence.
 
-📫 **Let's Connect:** [Your LinkedIn URL] | ✉️ [Your Email]
+📫 **Let's Connect:** (https://www.linkedin.com/in/p-priyadarshi/) | ✉️ prasun.pra90@gmail.com
 
 <!---
 Ppriyadarshi2105/Ppriyadarshi2105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
