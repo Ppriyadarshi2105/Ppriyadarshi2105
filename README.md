@@ -1,4 +1,4 @@
-# Hi there, I'm Priyadarshi 👋
+# Hi there, I'm Prasun Priyadarshi 👋
 
 ### 🚀 AI Engineer | Data Scientist | Forward Deployed Engineer
 I am an MBA (AI & DS) candidate passionate about bridging the gap between complex machine learning models and real-world business impact. I specialize in building, optimizing, and deploying AI and data science solutions that drive actionable insights.
