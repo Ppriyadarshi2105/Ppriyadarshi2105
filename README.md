@@ -11,9 +11,9 @@ I am an MBA (AI & DS) candidate passionate about bridging the gap between comple
 *   **Databases:** PostgreSQL, MySQL, MongoDB
 
 ### 📈 Featured Projects
-*   **[Project Name - e.g., End-to-End RAG LLM Chatbot]**
-    *   *Tech:* Python, LangChain, OpenAI API, FastAPI, Docker
-    *   *Impact:* Built a customer-facing document retrieval system and deployed it via Docker and FastAPI.
+*   **[End-to-End Text-to-SQL & RAG AI Agent]**
+    *   *Tech:* Python, LangChain, OpenAI API, SQL, FastAPI, Docker
+    *   *Impact:* Built and deployed a customer-facing AI agent capable of translating natural language into complex SQL queries and retrieving document context (RAG). Containerized the application using Docker and served it via a robust FastAPI backend for seamless enterprise integration.
 *   **[Workforce Allocation Optimization](https://github.com/Ppriyadarshi2105/Python-Project-Workforce-Allocation-Analysis-)**
     *   *Tech:* Python, Pandas, Statistical Analysis
     *   *Impact:* Analyzed historical workforce data to optimize staff allocation, presenting actionable operational improvements to management.
